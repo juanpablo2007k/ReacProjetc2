@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: rgb(245, 245, 245);
+}
+.closeX{
+    transition: 1s;
+    opacity: 0;
+    display: none;
+}
+.null{
+    padding: 5px;
+}
