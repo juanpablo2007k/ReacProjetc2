@@ -9,7 +9,7 @@ const Card = () => {
       <div className="bg-white rounded-md overflow-hidden shadow-lg hover:transition-all duration-300 ease-out transform hover:translate-y-7 hover:shadow-black">
         <img
           className="w-full h-56 object-cover"
-          src="https://material-taillwind-pro-ct-tailwind-team.vercel.app/img/color-palette.png"
+          src="../img/project12.jpg"
           alt="Card1"
         />
         <div className="p-4">
