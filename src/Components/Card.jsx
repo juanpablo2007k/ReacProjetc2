@@ -7,15 +7,15 @@ const Card = () => {
     {/* Card 1 */}
     <div className="sm:w-full md:w-1/2 lg:w-1/3 xl:w-1/3 max-w-md mx-2 mb-4">
       <div className="bg-white rounded-md overflow-hidden shadow-lg hover:transition-all duration-300 ease-out transform hover:translate-y-7 hover:shadow-black">
-        <img
+       <a href="https://free-desing-image-46h4.onrender.com/"><img
           className="w-full h-56 object-cover"
-          src="../img/project12.jpg"
+          src="https://github.com/Juan-Pablo-Castillo-Velasquez/ReacProjetc/blob/master/src/img/project12.jpg?raw=true"
           alt="Card1"
-        />
+        /></a> 
         <div className="p-4">
-          <div className="font-bold text-xl mb-2">Título de la tarjeta 1</div>
+          <div className="font-bold text-xl mb-2">Free image desing</div>
           <p className="text-gray-700 text-base">
-            Descripción corta de la tarjeta 1. Puedes agregar más información aquí.
+            Rest api created using nodejs,express,typescript,tawilind y ejs
           </p>
         </div>
       </div>
@@ -24,15 +24,17 @@ const Card = () => {
     {/* Card 2 */}
     <div className="sm:w-full md:w-1/2 lg:w-1/3 xl:w-1/3 max-w-md mx-2 mb-4">
       <div className="bg-white rounded-md overflow-hidden shadow-lg hover:transition-all duration-300 ease-out transform hover:translate-y-7 hover:shadow-black">
+        <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/SerachingForFiles">
         <img
           className="w-full h-56 object-cover"
-          src="https://material-taillwind-pro-ct-tailwind-team.vercel.app/img/figma-variants.png"
+          src="https://github.com/Juan-Pablo-Castillo-Velasquez/SerachingForFiles/raw/master/img/example2.png"
           alt="Card2"
         />
+        </a>
         <div className="p-4">
-          <div className="font-bold text-xl mb-2">Título de la tarjeta 2</div>
+          <div className="font-bold text-xl mb-2">SearchinForFiles</div>
           <p className="text-gray-700 text-base">
-            Descripción corta de la tarjeta 2. Puedes agregar más información aquí.
+       created in python this aplication searching for ocurrens for consident into the proyect and write it
           </p>
         </div>
       </div>
@@ -41,15 +43,17 @@ const Card = () => {
     {/* Card 3 */}
     <div className="sm:w-full md:w-1/2 lg:w-1/3 xl:w-1/3 max-w-md mx-2 mb-4">
       <div className="bg-white rounded-md overflow-hidden shadow-lg hover:transition-all duration-300 ease-out transform hover:translate-y-7 hover:shadow-black">
-        <img
+      <a href="https://github.com/juanpablo2007k/Moodle_form_Example">
+      <img
           className="w-full h-56 object-cover"
-          src="https://material-taillwind-pro-ct-tailwind-team.vercel.app/img/typography.png"
+          src="https://github.com/juanpablo2007k/Moodle_form_Example/raw/master/img/users.png"
           alt="Card3"
         />
+      </a>
         <div className="p-4">
-          <div className="font-bold text-xl mb-2">Título de la tarjeta 3</div>
+          <div className="font-bold text-xl mb-2">Register students</div>
           <p className="text-gray-700 text-base">
-            Descripción corta de la tarjeta 3. Puedes agregar más información aquí.
+           plugin for moodle this plugin help to register student in everything curse
           </p>
         </div>
       </div>
